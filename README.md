@@ -24,7 +24,7 @@ npm run dev
 ```
 
 
-# Run app in a docker container 
+# Create a docker image and run locally 
 
 ```
 cd Backend
