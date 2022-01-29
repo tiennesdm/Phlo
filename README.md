@@ -42,6 +42,7 @@ docker images
 
 ```
 docker tag <image_id> <docker_repo>(tiennesdm/phlo_docker:tagname)
+docker push tiennesdm/phlo_docker:tagname
 ```
 
 
