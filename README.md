@@ -24,7 +24,7 @@ npm run dev
 ```
 
 
-# Run app in a docker container 
+# Create a docker image and run locally 
 
 ```
 cd Backend
@@ -42,6 +42,7 @@ docker images
 
 ```
 docker tag <image_id> <docker_repo>(tiennesdm/phlo_docker:tagname)
+docker push tiennesdm/phlo_docker:tagname
 ```
 
 
